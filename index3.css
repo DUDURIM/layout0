@@ -115,25 +115,24 @@ h3 {
 /* 메인 파트 */
 .body_sec {
   height: 80vh;
-  background-color: gray;
+  width: 80vw;
+  background-color: rgba(128, 128, 128, 0.349);
 }
 
 .leftsidebar {
-  background-color: blue;
   height: 80vh;
   width: 20vw;
   float: left;
 }
 
 .centerebar {
-  background-color: violet;
   height: 80vh;
   width: 40vw;
   float: left;
+  background-color: white;
 }
 
 .rightsidebar {
-  background-color: green;
   height: 80vh;
   width: 20vw;
   float: right;
