@@ -143,13 +143,13 @@ h3 {
 footer {
   bottom: 0px;
   height: 10vh;
-  background-color: #000;
+  background-color: rgba(0, 0, 0, 0.582);
   color: #fff;
-  padding-top: 30px;
   padding-bottom: 50px;
   text-align: center;
-  font-size: 30px;
+  font-size: 15px;
   font-weight: bold;
+  line-height: 10vh;
 }
 
 
