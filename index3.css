@@ -157,6 +157,7 @@ footer {
 @media (max-width: 379px) {
   .menu {
     margin-top: 10vh !important;
+    z-index: 1;
   }
 }
 
@@ -178,6 +179,7 @@ footer {
     width: 80%;
     justify-content: center;
     align-items: center;
+    z-index: 1;
   }
 
   #menu-toggle~.menu li {
