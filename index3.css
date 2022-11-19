@@ -130,12 +130,14 @@ h3 {
   width: 40vw;
   float: left;
   background-color: white;
+  overflow: auto;
 }
 
 .rightsidebar {
   height: 80vh;
   width: 20vw;
   float: right;
+  overflow: auto;
 }
 
 
